@@ -1,1 +1,1 @@
-Hello World
+ブログ制作決定！
