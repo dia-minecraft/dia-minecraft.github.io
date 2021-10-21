@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "ブログスタート！"
-date: 2020-10-17
-theme: jekyll-theme-cayman
+date: 2020-10-21
 ---
 # First Post 
 
