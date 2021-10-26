@@ -1,4 +1,4 @@
-{% include natigation.html %}
+
 <ul>
 {% for post in site.posts %}
 <li>
